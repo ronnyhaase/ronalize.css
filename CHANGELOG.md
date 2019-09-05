@@ -1,5 +1,14 @@
 # Changes to ronalize.css
 
+### 1.0.0 (September 5, 2019)
+
+Based on normalize.css v8.0.1
+
+* Default to box-sizing for border-box
+* Base font size of 16px (in order to use `rem`)
+* Typography base font size of 1.125rem (18px)
+* `html` and `body` with a height of 100%
+
 # Changes to normalize.css
 
 ### 8.0.1 (November 4, 2018)
