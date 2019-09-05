@@ -1,5 +1,9 @@
 # Changes to ronalize.css
 
+### 1.0.1 (September 5, 2019)
+
+* Fix link to normalize.css in README
+
 ### 1.0.0 (September 5, 2019)
 
 Based on normalize.css v8.0.1
