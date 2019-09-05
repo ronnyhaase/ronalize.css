@@ -1,6 +1,6 @@
 # ronalize.css
 
-[normalize.css](https://google.com) (**which you should prefer over this**) with some personal and opinionated adaptions.
+[normalize.css](https://github.com/necolas/normalize.css) (**which you should prefer over this**) with some personal and opinionated adaptions.
 
 ```sh
 npm i ronalize.css
