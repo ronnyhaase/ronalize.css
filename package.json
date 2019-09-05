@@ -1,15 +1,16 @@
 {
-  "name": "normalize.css",
-  "version": "8.0.1",
-  "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
-  "style": "normalize.css",
+  "name": "ronalize.css",
+  "version": "1.0.0",
+  "author": "Ronny Haase <ronnyhaase@fastmail.com>",
+  "description": "normalize.css with my personal adaptions ",
+  "main": "ronalize.css",
+  "style": "ronalize.css",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "ronalize.css"
   ],
-  "repository": "necolas/normalize.css",
+  "repository": "ronnyhaase/ronalize.css",
   "license": "MIT",
-  "bugs": "https://github.com/necolas/normalize.css/issues",
-  "homepage": "https://necolas.github.io/normalize.css"
+  "bugs": "https://github.com/ronnyhaase/ronalize.css/issues",
+  "homepage": "https://github.com/ronnyhaase/ronalize.css"
 }
