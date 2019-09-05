@@ -23,6 +23,13 @@ html {
   box-sizing: inherit;
 }
 
+/**
+ * Set document and body height to 100%
+ */
+html, body {
+  height: 100%;
+}
+
 /* Sections
    ========================================================================== */
 
