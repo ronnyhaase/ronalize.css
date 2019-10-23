@@ -182,7 +182,7 @@ img {
    ========================================================================== */
 
 /**
- * 1. Change the font styles in all browsers.
+ * 1. Make controls inherit font styles
  * 2. Remove the margin in Firefox and Safari.
  */
 
@@ -191,9 +191,8 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit; /* 1 */
-  font-size: 100%; /* 1 */
-  line-height: 1.15; /* 1 */
+  font: inherit; /* 1 */
+  line-height: inherit; /* 1 */
   margin: 0; /* 2 */
 }
 
