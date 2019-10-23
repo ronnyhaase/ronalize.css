@@ -1,5 +1,12 @@
 # Changes to ronalize.css
 
+### 1.1.0 (October 23, 2019)
+
+* Use System Font Stack
+* Smooth scrolling and speed-optimized text rendering
+* Disable animations and smooth scroll when reduced motion is requested
+* Some minor optimizations
+
 ### 1.0.1 (September 5, 2019)
 
 * Fix link to normalize.css in README
