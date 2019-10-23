@@ -23,13 +23,6 @@ html {
   box-sizing: inherit;
 }
 
-/**
- * Set document and body height to 100%
- */
-html, body {
-  height: 100%;
-}
-
 /* Sections
    ========================================================================== */
 
@@ -37,8 +30,9 @@ html, body {
  * 1. Use System Font Stack
  * 2. Set body font size of 1.125rem (18px) as typo base
  * 3. Remove the margin in all browsers.
- * 4. Smooth scrolling
- * 5. Speed optimized text rendering
+ * 4. Set body height to 100%
+ * 5. Smooth scrolling
+ * 6. Speed optimized text rendering
  */
 
 body {
@@ -54,8 +48,9 @@ body {
     "Segoe UI Symbol";
   font-size: 1.125rem; /* 2 */
   margin: 0; /* 3 */
-  scroll-behavior: smooth; /* 4 */
-  text-rendering: optimizeSpeed; /* 5 */
+  min-height: 100%; /* 4 */
+  scroll-behavior: smooth; /* 5 */
+  text-rendering: optimizeSpeed; /* 6 */
 }
 
 /**
