@@ -11,6 +11,7 @@ Based on normalize.css v8.0.1
 * Default to box-sizing for border-box
 * Base font size of 16px (in order to use `rem`)
 * Typography base font size of 1.125rem (18px)
+* Use System Font Stack ([Github / @mdo](https://markdotto.com/2018/02/07/github-system-fonts/))
 * `html` and `body` with a height of 100%
 
 # Changes to normalize.css
