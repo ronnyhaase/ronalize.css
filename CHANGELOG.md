@@ -1,5 +1,9 @@
 # Changes to ronalize.css
 
+### 1.1.1 (December 22, 2021)
+
++ Add missing info of controls inheriting font and line-height to README
+
 ### 1.1.0 (October 23, 2019)
 
 * Use System Font Stack
@@ -53,7 +57,7 @@ Based on normalize.css v8.0.1
 * Remove `::placeholder` styles due to a bug in Edge.
 * More explicitly define font resets on form controls.
 * Remove the `optgroup` normalization needed by the previous font reset.
-* Update text-size-adjust documentation  for IE on Windows Phone
+* Update text-size-adjust documentation for IE on Windows Phone
 * Update OS X reference to macOS
 * Update the semver strategy.
 
