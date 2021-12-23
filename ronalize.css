@@ -195,8 +195,9 @@ img {
    ========================================================================== */
 
 /**
- * 1. Make controls inherit font styles
- * 2. Remove the margin in Firefox and Safari.
+* 1. Remove the margin in Firefox and Safari.
+* 2. Make controls inherit font styles
+* 3. Make controls use line-height of 1
  */
 
 button,
@@ -204,9 +205,9 @@ input,
 optgroup,
 select,
 textarea {
-  font: inherit; /* 1 */
-  line-height: inherit; /* 1 */
-  margin: 0; /* 2 */
+  margin: 0; /* 1 */
+  font: inherit; /* 2 */
+  line-height: 1; /* 3 */
 }
 
 /**
