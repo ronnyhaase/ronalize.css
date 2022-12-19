@@ -265,6 +265,14 @@ button:-moz-focusring,
 }
 
 /**
+ * Remove placeholer opacity added by Firefox
+ * https://css-tricks.com/almanac/selectors/p/placeholder/#aa-firefox-placeholder-color
+ */
+::-moz-placeholder {
+  opacity: 1;
+}
+
+/**
  * Correct the padding in Firefox.
  */
 
